@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning TypeScript & Vue3
-- 🎈 I like to read english noval
+- 📖 I like to read english noval
 - 🤔 I’m looking for help with find a girl friend~
 
