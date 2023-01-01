@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 
 ## My Data
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngryChocobo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrychocobo&exclude_repo=monster-hunter-web-data&layout=compact&theme=buefy&hide_border=true" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngryChocobo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrychocobo&exclude_repo=monster-hunter-web-data&layout=compact&theme=buefy&hide_border=true" /> | 
+| ------------- | ------------- |
