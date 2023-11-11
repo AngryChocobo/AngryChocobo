@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning TypeScript & Nest.js
+- 💻 Django is fun!
 - 📖 I like to read english novel
